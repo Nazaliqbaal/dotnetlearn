@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>dotnet_learn</RootNamespace>
+    <UserSecretsId>0d7b8d28-e2c6-42aa-b193-bb81d6533166</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
